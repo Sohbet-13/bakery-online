@@ -1,0 +1,21 @@
+# Бэкенд (Laravel)
+/backend/vendor
+/backend/node_modules
+/backend/public/storage
+/backend/storage/*.key
+/backend/.env
+/backend/.env.backup
+/backend/.phpunit.result.cache
+/backend/storage/logs/*.log
+
+# Фронтенд (Next.js)
+/frontend/node_modules
+/frontend/.next
+/frontend/out
+/frontend/.env.local
+
+# Системные и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
